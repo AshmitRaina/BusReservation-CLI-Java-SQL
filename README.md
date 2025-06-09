@@ -29,7 +29,7 @@ A simple console-based **Bus Reservation System** developed using **Java** and *
 git clone https://github.com/AshmitRaina/BusReservation-CLI-Java-SQL.git
 cd BusReservationSystem
 
-
+exit
 ## 💾 Database Setup
 
 1. Make sure MySQL is installed and running.
