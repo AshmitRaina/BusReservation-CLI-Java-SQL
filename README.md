@@ -1,8 +1,27 @@
-📁 sql/                 # SQL script
+# 🚌 Java Bus Reservation System (Console-Based)
 
-📁 src/                 # Source code (Java files)
+A simple console-based **Bus Reservation System** developed using **Java** and **JDBC (MySQL)**. This application allows users to register, login, book and cancel tickets, and view their bookings — all through a terminal interface.
 
-📁 .idea/               # IntelliJ project settings
+---
 
-📄 BusReservationSystem.iml  # IntelliJ project file
+## 🔧 Features
 
+- 🔐 User Registration & Login
+- 🚌 View Available Buses
+- 🎫 Book Tickets
+- 🧾 View Booked Tickets
+- ❌ Cancel Tickets
+- 🗃️ JDBC and MySQL integration
+
+---
+
+## 💻 Tech Stack
+
+| Layer           | Technology       |
+|----------------|------------------|
+| Language        | Java             |
+| Database        | MySQL            |
+| Backend Access  | JDBC (no Servlets) |
+| IDE             | IntelliJ IDEA    |
+
+---
