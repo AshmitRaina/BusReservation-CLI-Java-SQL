@@ -4,9 +4,9 @@ import java.util.*;
 import java.util.List; // <-- this line is important
 
  class DBConnection {
-    private static final String URL = "jdbc:mysql://localhost:3306/mydb";
-    private static final String USER = "root";
-    private static final String PASSWORD = "2025";
+    private static final String URL = "LocalHostURL";
+    private static final String USER = "root(most commonly used name)";
+    private static final String PASSWORD = "pass";
 
     public static Connection getConnection() throws SQLException {
         return DriverManager.getConnection(URL, USER, PASSWORD);
