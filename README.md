@@ -44,5 +44,15 @@ A simple console-based **Bus Reservation System** developed using **Java** and *
 
 
 
+## 📝 License
+This project is licensed under the **MIT License**.
+
+## 🙌 Acknowledgements
+Built by **Ashmit Raina** as part of a university mini-project, demonstrating core **Java + JDBC** programming with **MySQL**.
+
+## 📬 Contact
+Connect with me on [LinkedIn](www.linkedin.com/in/ashmit-raina-4250a628b) or open an issue for help or suggestions.
+
+
 
 
