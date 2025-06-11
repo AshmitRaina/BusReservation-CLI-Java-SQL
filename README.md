@@ -59,6 +59,8 @@ Built by **Ashmit Raina** as part of a university mini-project, demonstrating co
 
 ## 📬 Contact
 Connect with me on [LinkedIn](www.linkedin.com/in/ashmit-raina-4250a628b) or open an issue for help or suggestions.
+📧 [ashmitraina82@gmail.com]
+ | [GitHub](https://github.com/AshmitRaina)
 
 
 
