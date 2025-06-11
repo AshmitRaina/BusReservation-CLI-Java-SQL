@@ -40,6 +40,13 @@ A simple console-based **Bus Reservation System** developed using **Java** and *
 📄 BusReservationSystem.iml  # IntelliJ project file
 
 
+## 🚀 Clone This Project
+
+To get a local copy up and running, clone the repository using the following command:
+
+```bash
+git clone https://github.com/AshmitRaina/BusReservation-CLI-Java-SQL.git
+```
 
 
 
